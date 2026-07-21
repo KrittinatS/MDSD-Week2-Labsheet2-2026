@@ -402,7 +402,8 @@ flutter run
 **บันทึกรูปผลการทดลอง**
 ```
 บันทึกรูปที่นี่
-```
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/b60bd473-176b-44b5-a2dd-8927f3c2596e" />
+
 ---
 
 ### การทดลองที่ 2 — Layout Widgets: Column, Row, Container
